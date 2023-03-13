@@ -1,4 +1,3 @@
-package app.wagix.wagixcreditservice.security;
 
 import app.wagix.wagixcreditservice.tokens.TokenService;
 import org.keycloak.adapters.springboot.KeycloakSpringBootConfigResolver;
